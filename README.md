@@ -12,7 +12,7 @@ Course Website: [CS50x-2024](https://cs50.harvard.edu/x/2024/)
 
 - Course Notes: See page on [CS50x-2024](https://cs50.harvard.edu/x/2024/) of each lecture
 - Lots of resources: [CS50 - 资源总目录](https://uufyjevghz.feishu.cn/docx/DP78d2U5TosTOTx9QCbcjp8GnBh)
-- Meticulous translation with bilingual subtitles (Only Lecture 0 ~ 4): [Bilibili - figuretu](https://space.bilibili.com/398793142/channel/collectiondetail?sid=1694108)
+- Meticulous translation (Bilingual subtitles) (Only Lecture 0 ~ 4): [Bilibili - figuretu](https://space.bilibili.com/398793142/channel/collectiondetail?sid=1694108)
 
 ## Schedule
 
@@ -24,9 +24,9 @@ Learning sequence:
     3. Lab
 ```
 
-- [ ] [Lecture 0: Scratch](https://cs50.harvard.edu/x/2024/weeks/0/)
-  - Completion Date:
-  - Unresolved Parts:
+- [x] [Lecture 0: Scratch](https://cs50.harvard.edu/x/2024/weeks/0/)
+  - Completion Date: 2024-06-11
+  - Unresolved Parts: None
 
 - [ ] [Lecture 1: C](https://cs50.harvard.edu/x/2024/weeks/1/)
   - Completion Date:
